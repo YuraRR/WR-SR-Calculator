@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Small water well",
+    "type": "well",
+    "production": 70,
+    "energy": 5.1,
+    "wattage": 84,
+    "image": "Tool_water_well_small"
+  },
+  {
+    "id": 2,
+    "name": "Big water well",
+    "type": "well",
+    "production": 215,
+    "energy": 8.9,
+    "wattage": 148,
+    "image": "Tool_water_well_big"
+  },
+  {
+    "id": 3,
+    "name": "Surface water outflow",
+    "type": "well",
+    "production": 150,
+    "image": "Tool_water_to_water"
+  },
+  {
+    "id": 4,
+    "name": "Water treatment small",
+    "type": "treatment",
+    "production": 120,
+    "energy": 10,
+    "wattage": 167,
+    "image": "Tool_water_treatment_small"
+  },
+  {
+    "id": 5,
+    "name": "Water treatment big",
+    "type": "treatment",
+    "production": 300,
+    "energy": 13,
+    "wattage": 232,
+    "image": "Tool_water_treatment_big"
+  },
+  {
+    "id": 6,
+    "name": "Small water pumping station",
+    "type": "pump",
+    "energy": 14,
+    "wattage": 249,
+    "throughput": 50,
+    "image": "Tool_water_pumping_station_small"
+  },
+  {
+    "id": 7,
+    "name": "Big water pumping station",
+    "type": "pump",
+    "energy": 39,
+    "wattage": 650,
+    "throughput": 150,
+    "image": "Tool_water_pumping_station_big"
+  },
+  {
+    "id": 8,
+    "name": "Water substation",
+    "type": "substation",
+    "image": "Tool_water_substation"
+  },
+  {
+    "id": 9,
+    "name": "Water pipe small",
+    "type": "pipe",
+    "throughput": 26.15,
+    "image": "Water_pipe_small-toolbar"
+  },
+  {
+    "id": 10,
+    "name": "Water pipe medium",
+    "type": "pipe",
+    "throughput": 56.55,
+    "image": "Water_pipe_medium-toolbar"
+  },
+  {
+    "id": 11,
+    "name": "Water pipe big",
+    "type": "pipe",
+    "throughput": 127.23,
+    "image": "Water_pipe_big-toolbar"
+  }
+]

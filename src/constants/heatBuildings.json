@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Small heating plant",
+    "type": "heatingPlant",
+    "production": 42,
+    "energy": 12,
+    "wattage": 213,
+    "image": "Small heating plant"
+  },
+  {
+    "id": 2,
+    "name": "Heating plant",
+    "type": "heatingPlant",
+    "production": 210,
+    "energy": 63,
+    "wattage": 1064,
+    "image": "heating plant"
+  },
+  {
+    "id": 3,
+    "name": "Incinerator - heating plant",
+    "type": "heatingPlant",
+    "production": 135,
+    "energy": 40,
+    "wattage": 682,
+    "image": "Incinerator - heating plant"
+  },
+  {
+    "id": 4,
+    "name": "Small heating Pumping Station",
+    "type": "pump",
+    "storage": 300,
+    "energy": 11,
+    "wattage": 199,
+    "image": "Small heating Pumping Station"
+  },
+  {
+    "id": 5,
+    "name": "Heating pumping station",
+    "type": "pump",
+    "storage": 100,
+    "energy": 24,
+    "wattage": 400,
+    "image": "Heating pumping station"
+  },
+  {
+    "id": 6,
+    "name": "Small heat exchanger",
+    "type": "exchanger",
+    "energy": 6,
+    "wattage": 99,
+    "storage": 100,
+    "image": "Small heat exchanger"
+  },
+  {
+    "id": 7,
+    "name": "Heat exchanger",
+    "type": "exchanger",
+    "energy": 18,
+    "wattage": 300,
+    "storage": 300,
+    "image": "Heat exchanger"
+  },
+  {
+    "id": 8,
+    "name": "Heating pipe small",
+    "type": "pipe",
+    "throughput": 100,
+    "image": "Tool_heating_pipe_small"
+  },
+  {
+    "id": 9,
+    "name": "Heating pipe big",
+    "type": "pipe",
+    "throughput": 300,
+    "image": "Tool_heating_pipe_big"
+  },
+  {
+    "id": 10,
+    "name": "Heating pipe underground small",
+    "type": "pipe",
+    "throughput": 100,
+    "image": "Tool_heating_pipe_small_underground"
+  },
+  {
+    "id": 11,
+    "name": "Heating pipe underground big",
+    "type": "pipe",
+    "throughput": 300,
+    "image": "Tool_heating_pipe_big_underground"
+  }
+]

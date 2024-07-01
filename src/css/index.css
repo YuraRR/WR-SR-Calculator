@@ -1,0 +1,90 @@
+@import "./reset.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  color: rgb(53, 51, 51);
+}
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("./img/bg/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+h2 {
+  @apply bg-darkRed text-white px-5;
+}
+h3 {
+  @apply text-sm sm:text-base;
+}
+.active {
+  @apply bg-darkRed text-white;
+}
+.adaptiveGrid {
+  @apply grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-y-4 p-2 md:p-4;
+}
+.gridCell {
+  @apply relative cursor-pointer items-center flex flex-col text-center select-none
+  mx-auto max-w-36 min-h-36 h-max w-full hover:scale-105;
+}
+.gridCell:active {
+  transform: scale(1.1);
+}
+.icon {
+  @apply w-16;
+}
+.block {
+  @apply relative m-auto w-auto md:w-5/6 bg-beige pt-5 min-h-52;
+}
+
+.amountMarker {
+  @apply absolute bg-darkRed text-white left-9 top-0 rounded-full w-6;
+}
+
+.arrow,
+.arrow4 {
+  position: relative;
+}
+
+.arrow:not(:last-child)::after,
+.arrow4:nth-child(-n + 4)::after,
+.arrow3:nth-child(-n + 3)::after {
+  content: "";
+  position: absolute;
+  transform: translateY(-50%);
+  background-image: url("./img/icons/arrow.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  @apply w-9 h-9 -right-2 top-8 sm:w-14 sm:h-14 sm:-right-12 sm:top-10;
+}

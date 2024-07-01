@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Coal power plant",
+    "production": 1400,
+    "energy": 0.6,
+    "wattage": 23,
+    "image": "Coal power plant"
+  },
+  {
+    "id": 2,
+    "name": "Gas power plant",
+    "production": 1050,
+    "energy": 3.4,
+    "wattage": 17,
+    "image": "Gas power plant"
+  },
+  {
+    "id": 3,
+    "name": "Solar power plant",
+    "production": 560,
+    "energy": 0.24,
+    "wattage": 9.3,
+    "image": "Solar power plant"
+  },
+  {
+    "id": 4,
+    "name": "Small wind power plant",
+    "production": 15,
+    "energy": 0,
+    "wattage": 0.25,
+    "image": "Small wind power plant"
+  },
+  {
+    "id": 5,
+    "name": "Big wind power plant",
+    "production": 35,
+    "energy": 0,
+    "wattage": 0.58,
+    "image": "Big wind power plant"
+  },
+  {
+    "id": 6,
+    "name": "Incinerator - power plant",
+    "production": 660,
+    "energy": 0.6,
+    "wattage": 11,
+    "image": "Incinerator - power plant"
+  },
+  {
+    "id": 7,
+    "name": "Single reactor nuclear power plant",
+    "production": 4680,
+    "energy": 7.8,
+    "wattage": 78,
+    "image": "Single reactor nuclear power plant"
+  },
+  {
+    "id": 8,
+    "name": "Twin reactor nuclear power plant",
+    "production": 9360,
+    "energy": 9.6,
+    "wattage": 156,
+    "image": "Twin reactor nuclear power plant"
+  },
+  {
+    "id": 9,
+    "name": "Zaporozie reactor",
+    "production": 5850,
+    "energy": 8.0,
+    "wattage": 97,
+    "image": "Zaporozie reactor"
+  }
+]

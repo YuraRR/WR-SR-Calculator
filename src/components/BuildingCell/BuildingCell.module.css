@@ -1,0 +1,16 @@
+.button {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  top: 25%;
+  right: 25%;
+}
+
+.addButton {
+  background-image: url("/img/icons/Plus.png");
+}
+.removeButton {
+  background-image: url("/img/icons/Minus.png");
+}

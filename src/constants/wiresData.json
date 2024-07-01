@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "High voltage wires type 1",
+    "voltage": "high",
+    "throughput": 4,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high1"
+  },
+  {
+    "id": 2,
+    "name": "High voltage wires type 2",
+    "voltage": "high",
+    "throughput": 6,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high2"
+  },
+  {
+    "id": 3,
+    "name": "High voltage wires type 3",
+    "voltage": "high",
+    "throughput": 8,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high3"
+  },
+  {
+    "id": 4,
+    "name": "High voltage wires type 4",
+    "voltage": "high",
+    "throughput": 10,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high4"
+  },
+  {
+    "id": 5,
+    "name": "High voltage wires type 5",
+    "voltage": "high",
+    "throughput": 13,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high5"
+  },
+  {
+    "id": 6,
+    "name": "High voltage wires type 6",
+    "voltage": "high",
+    "throughput": 14,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high6"
+  },
+  {
+    "id": 7,
+    "name": "High voltage wires type 7",
+    "voltage": "high",
+    "throughput": 15,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high"
+  },
+  {
+    "id": 8,
+    "name": "High voltage wires type 8",
+    "voltage": "high",
+    "throughput": 18,
+    "placement": "aboveGround",
+    "image": "tool_eletric_high7"
+  },
+  {
+    "id": 9,
+    "name": "Underground high voltage wires type 1",
+    "voltage": "high",
+    "throughput": 5,
+    "placement": "underground",
+    "image": "tool_eletric_uhigh0"
+  },
+  {
+    "id": 10,
+    "name": "Underground high voltage wires type 2",
+    "voltage": "high",
+    "throughput": 7,
+    "placement": "underground",
+    "image": "tool_eletric_uhigh1"
+  },
+  {
+    "id": 11,
+    "name": "Underground high voltage wires type 3",
+    "voltage": "high",
+    "throughput": 12,
+    "placement": "underground",
+    "image": "tool_eletric_uhigh2"
+  },
+  {
+    "id": 12,
+    "name": "Medium voltage wires type 1",
+    "voltage": "medium",
+    "throughput": 0.65,
+    "placement": "aboveGround",
+    "image": "tool_eletric_low0"
+  },
+  {
+    "id": 13,
+    "name": "Medium voltage wires type 2",
+    "voltage": "medium",
+    "throughput": 1.2,
+    "placement": "aboveGround",
+    "image": "tool_eletric_low1"
+  },
+  {
+    "id": 14,
+    "name": "Medium voltage wires type 3",
+    "voltage": "medium",
+    "throughput": 1.5,
+    "placement": "aboveGround",
+    "image": "tool_eletric_low3"
+  },
+  {
+    "id": 15,
+    "name": "Medium voltage wires type 4",
+    "voltage": "medium",
+    "throughput": 2.35,
+    "placement": "aboveGround",
+    "image": "tool_eletric_low2"
+  },
+  {
+    "id": 16,
+    "name": "Underground medium voltage wires type 1",
+    "voltage": "medium",
+    "throughput": 0.5,
+    "placement": "underground",
+    "image": "tool_eletric_ulow0"
+  },
+  {
+    "id": 17,
+    "name": "Underground medium voltage wires type 2",
+    "voltage": "medium",
+    "throughput": 0.95,
+    "placement": "underground",
+    "image": "tool_eletric_ulow1"
+  },
+  {
+    "id": 18,
+    "name": "Underground medium voltage wires type 3",
+    "voltage": "medium",
+    "throughput": 1.45,
+    "placement": "underground",
+    "image": "tool_eletric_ulow2"
+  },
+  {
+    "id": 19,
+    "name": "Electric substation",
+    "voltage": "substation",
+    "throughput": 2.35,
+    "placement": "aboveGround",
+    "image": "tool_eletric_substation"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Flats - brick",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 3,
+    "waterCons": 1.94,
+    "image": "Flats-brick1",
+    "workersCap": 43
+  },
+  {
+    "id": 2,
+    "name": "Flats - prefab",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 3,
+    "waterCons": 2.16,
+    "image": "Flats-prefab1",
+    "workersCap": 48
+  },
+  {
+    "id": 3,
+    "name": "Flats - brick",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 2.24,
+    "waterCons": 1.44,
+    "image": "Flats-brick2",
+    "workersCap": 32
+  },
+  {
+    "id": 4,
+    "name": "Flats - brick",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 2.87,
+    "waterCons": 1.85,
+    "image": "Flats-brick3",
+    "workersCap": 41
+  },
+  {
+    "id": 5,
+    "name": "Flats - brick",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 3,
+    "waterCons": 0.84,
+    "image": "Flats-brick4",
+    "workersCap": 12
+  },
+  {
+    "id": 6,
+    "name": "Flats - prefab",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 2.31,
+    "waterCons": 1.49,
+    "image": "Flats-prefab2",
+    "workersCap": 33
+  },
+  {
+    "id": 7,
+    "name": "Flats - prefab",
+    "energy": 3.0,
+    "wattage": 50,
+    "heatTank": 3,
+    "waterCons": 1.94,
+    "image": "Flats-prefab3",
+    "workersCap": 43
+  },
+  {
+    "id": 8,
+    "name": "Flats - prefab",
+    "energy": 4.4,
+    "wattage": 73,
+    "heatTank": 5,
+    "waterCons": 3.29,
+    "image": "Flats-prefab4",
+    "workersCap": 73
+  },
+  {
+    "id": 9,
+    "name": "Flats - brick",
+    "energy": 3.1,
+    "wattage": 51,
+    "heatTank": 3,
+    "waterCons": 2.3,
+    "image": "Flats-brick5",
+    "workersCap": 51
+  },
+  {
+    "id": 10,
+    "name": "Flats - prefab",
+    "energy": 5.8,
+    "wattage": 97,
+    "heatTank": 6,
+    "waterCons": 4.37,
+    "image": "Flats-prefab5",
+    "workersCap": 97
+  },
+  {
+    "id": 11,
+    "name": "Flats - prefab",
+    "energy": 4.4,
+    "wattage": 73,
+    "heatTank": 5,
+    "waterCons": 3.29,
+    "image": "Flats-prefab6",
+    "workersCap": 75
+  },
+  {
+    "id": 12,
+    "name": "Flats - prefab",
+    "energy": 20,
+    "wattage": 337,
+    "heatTank": 23,
+    "waterCons": 15.17,
+    "image": "Flats-prefab7",
+    "workersCap": 337
+  },
+  {
+    "id": 13,
+    "name": "Flats - brick",
+    "energy": 10,
+    "wattage": 174,
+    "heatTank": 12,
+    "waterCons": 7.83,
+    "image": "Flats-brick6",
+    "workersCap": 174
+  },
+  {
+    "id": 14,
+    "name": "Flats - brick",
+    "energy": 9.7,
+    "wattage": 162,
+    "heatTank": 11,
+    "waterCons": 7.29,
+    "image": "Flats-brick7",
+    "workersCap": 162
+  },
+  {
+    "id": 15,
+    "name": "Flats - prefab",
+    "energy": 15,
+    "wattage": 257,
+    "heatTank": 17,
+    "waterCons": 11.57,
+    "image": "Flats-prefab8",
+    "workersCap": 257
+  },
+  {
+    "id": 16,
+    "name": "Flats - prefab",
+    "energy": 11,
+    "wattage": 189,
+    "heatTank": 0,
+    "waterCons": 13,
+    "image": "Flats-prefab9",
+    "workersCap": 189
+  },
+  {
+    "id": 17,
+    "name": "Flats - prefab",
+    "energy": 8.2,
+    "wattage": 137,
+    "heatTank": 9,
+    "waterCons": 6.17,
+    "image": "Flats-prefab10",
+    "workersCap": 137
+  },
+  {
+    "id": 18,
+    "name": "Flats - prefab",
+    "energy": 8.6,
+    "wattage": 143,
+    "heatTank": 10,
+    "waterCons": 6.44,
+    "image": "Flats-prefab11",
+    "workersCap": 143
+  },
+  {
+    "id": 19,
+    "name": "Flats - prefab",
+    "energy": 10,
+    "wattage": 179,
+    "heatTank": 12,
+    "waterCons": 8.06,
+    "image": "Flats-prefab12",
+    "workersCap": 179
+  },
+  {
+    "id": 20,
+    "name": "Flats - prefab (type 464)",
+    "energy": 8.3,
+    "wattage": 138,
+    "heatTank": 9,
+    "waterCons": 6.21,
+    "image": "Flats-prefab13",
+    "workersCap": 138
+  },
+  {
+    "id": 21,
+    "name": "Flats - prefab",
+    "energy": 7.6,
+    "wattage": 127,
+    "heatTank": 8,
+    "waterCons": 5.72,
+    "image": "Flats-prefab14",
+    "workersCap": 127
+  }
+]
